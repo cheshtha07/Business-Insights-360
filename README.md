@@ -50,7 +50,7 @@ The dashboard gathers data from two primary sources:
 <img width="1572" height="837" alt="Screenshot 2025-10-07 164747" src="https://github.com/user-attachments/assets/9e4f8efc-9601-4051-b5ad-b46629f9f1e3" />
 
 ## Info Page
-
+![info.gif]("C:\Users\Cheshtha\OneDrive\Desktop\trim2.gif")
 
 
 
